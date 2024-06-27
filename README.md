@@ -60,9 +60,9 @@ Se recomienda implementar pruebas unitarias utilizando el módulo `unittest` de 
 
 <a href="img/Hannoi.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;"> :wink: Descargar Guía de Usuario (PDF) :wink: </a>
 
-Link del proyecto: :octocat: [https://github.com/T0NY24/Hanooi.git](https://github.com/T0NY24/Hanooi.git):octocat:
+Link del proyecto: :octocat: [https://github.com/T0NY24/Hanoi.git](https://github.com/T0NY24/Hanoi.git):octocat:
 
 
 ¡Las contribuciones son bienvenidas! :hearts: Si tienes una sugerencia para mejorar esto, por favor bifurca el repositorio. ¡No olvides darle una estrella al proyecto! :trophy: :trophy:
 
-<a href="https://github.com/T0NY24/Hanooi.git" class="button" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">:octocat: Ver en GitHub :octocat: </a>
+<a href="https://github.com/T0NY24/Hanoi.git" class="button" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">:octocat: Ver en GitHub :octocat: </a>
